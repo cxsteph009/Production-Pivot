@@ -1,6 +1,6 @@
 # Production-Pivot
 
-A small company sells electronics and electronic media wants to create a table which visualizes the cost of their recent orders. Using lookups, I created a pivot table which serves this purpose.
+A small company sells electronics and electronic media. They want to create a table which visualizes the cost of their recent orders. Using lookups, I created a pivot table which serves this purpose.
 
 ## Process
 
